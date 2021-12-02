@@ -191,3 +191,51 @@ footer{
 }
 
 /* end footer section style */
+
+
+
+
+.home-product {
+    margin-top: 82px;
+    color: orange;
+    text-align: center;
+}
+
+.product{
+    margin-bottom: 48px;
+font-size: 35px;
+}
+
+.product-1{
+margin-top: 3%;
+margin-bottom: 4%;
+margin-left: 20%;
+}
+
+.media-image{
+width: 250px;
+}
+
+.product-2 {
+margin-top: 2%;
+}
+
+.name-product {
+margin-bottom: 3%;
+}
+
+
+
+.p-product{
+font-size: 18px;
+}
+
+.name-product a {
+color: orange;
+}
+
+.list-product{
+margin-bottom: 5%;
+border-bottom: 0.5px solid grey;
+padding-bottom: 5%;
+}
