@@ -6,6 +6,10 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.title {
+    margin: 100px 0 32px 0;
+    font-size: 2.5rem;
+}
 
 /* start hero section styles */
 header {
@@ -49,7 +53,7 @@ li {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    height: 100vh;
+    height: 100%;
     color: white;
 }
 
@@ -106,3 +110,27 @@ li {
 }
 
 /* end hero section styles */
+
+
+
+/* new product section styles */
+img {
+    max-width: 75%;
+}
+
+.new-product article {
+    text-align: center;
+}
+
+.price {
+    font-weight: 700;
+    color: #a6a6a6;
+    font-size: 1rem;
+    padding: 16px 0;
+}
+
+.product-name {
+    font-weight: bold;
+}
+
+
