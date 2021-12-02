@@ -74,7 +74,7 @@ li {
     font-size: .8rem;
     font-weight: 700;
     text-transform: uppercase;
-    margin: 1rem 0;
+    margin: 1.5rem 0 10rem 0;
 }
 
 .hero-content {
@@ -132,5 +132,62 @@ img {
 .product-name {
     font-weight: bold;
 }
+/* end product section styles  */
 
 
+
+/* start footer section style */
+
+
+footer ul li {
+    list-style: none;
+    color: #a6a6a6;
+    display: flex;
+    flex-direction: column;
+}
+footer ul li:hover {
+    cursor: pointer;
+    color: white;
+}
+ form .email{
+    width: 100%;
+    border: solid 1px black;
+    border-radius: 3px;
+    padding: 16px;
+    margin-top: 8px;
+  }
+
+  form .sing-up{
+      padding: 16px 32px;
+        border-radius: 3px;
+        margin-top: 24px;
+        border-style: none;
+        cursor: pointer;
+        background-color: orange;
+        color: white;
+        text-align: center;
+        
+  }
+  
+  
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin-top: 48px;
+}
+
+.copy{
+    margin-top: 32px;
+    background-color:rgb(3, 35, 65);
+    padding: 8px;
+
+}
+
+.footer-social h3 {
+    margin-top: 32px;
+    margin-bottom: 16px;
+}
+
+/* end footer section style */
