@@ -194,7 +194,7 @@ footer{
 
 
 
-
+/* start product page styles */
 .home-product {
     margin-top: 82px;
     color: orange;
@@ -225,7 +225,6 @@ margin-bottom: 3%;
 }
 
 
-
 .p-product{
 font-size: 18px;
 }
@@ -239,3 +238,5 @@ margin-bottom: 5%;
 border-bottom: 0.5px solid grey;
 padding-bottom: 5%;
 }
+
+/* end product page styles */
