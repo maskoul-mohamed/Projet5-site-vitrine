@@ -195,15 +195,16 @@ footer{
 
 
 /* start product page styles */
-.home-product {
+.title-container {
     margin-top: 82px;
-    color: orange;
     text-align: center;
 }
 
-.product{
+.title-page{
     margin-bottom: 48px;
-font-size: 35px;
+    font-size: 35px;
+    color: orange;
+
 }
 
 .product-1{
@@ -251,9 +252,20 @@ input[type=text], select, textarea {
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
-  resize: vertical;
+  resize: none;
 }
 
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  input[type=submit]:hover {
+    background-color: orange;
+  }
 
 .container {
   border-radius: 5px;
