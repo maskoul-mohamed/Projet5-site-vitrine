@@ -33,6 +33,10 @@ header {
 
   .logo {
       width: 100px;
+      margin-top: 8px;
+  }
+  .logo:hover{
+      cursor: pointer;
   }
 
   .header-nav-home  a {
