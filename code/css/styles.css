@@ -52,6 +52,9 @@ li {
     display: inline;
 }
 
+header ul li a:hover {
+    color: orange;
+}
 .hero {
     background-image: url("../img/background.png");
     background-size: cover;
