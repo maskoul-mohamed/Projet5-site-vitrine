@@ -31,8 +31,6 @@ Showcase website for a sport company that allows user to know products
 
 - HTML5; 
 - CSS3;
-- Javascript
-
 
 ## Author
 
