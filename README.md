@@ -42,6 +42,18 @@ Showcase website for a sport company that allows user to know products
 - Linkedin: [Maskoul Mohamed](https://www.linkedin.com/in/mohammed-maskoul/)
 - Email: maskoul.mohammed@gmail.com
 
+:man: **El Mliki Hicham**
+
+- Github: [@El-Mliki-Hicham](https://github.com/El-Mliki-Hicham)
+
+:man: **Tebbaa Adnane**
+
+- Github: [@tebbaa-adnane](https://github.com/tebbaa-adnane)
+
+:man: **Oubay El Yahyaoui**
+
+- Github: [@elyahyaoui-oubay](https://github.com/elyahyaoui-oubay)
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
